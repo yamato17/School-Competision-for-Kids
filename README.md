@@ -1,6 +1,6 @@
 ## こどもの勉強意欲が湧くWebページ
 
-<img src="/oshimamasara/School-Competision-for-Kids/raw/master/img/sample.jpg" style="max-width:100%;">
+<img src="/img/sample.jpg" style="max-width:100%;">
 
 １枚の Webページに必要な情報をギュギュッと詰め込み。
 
