@@ -1,3 +1,7 @@
+## DEMO
+
+http://oshimamasara.rf.gd/01/
+
 ## こどもの勉強意欲が湧くWebページ
 
 <img src="/img/sample.jpg" style="max-width:100%;">
