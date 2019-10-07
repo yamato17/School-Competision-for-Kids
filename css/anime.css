@@ -1,0 +1,37 @@
+body{
+  /*background-color: #92DB00;*/
+}
+img{
+  width:600px;
+}
+
+#road{
+  border-bottom: 7px dashed black;
+}
+
+#runner{
+  background:url("css/img/rider.png");
+  width:100px;
+  height: 115px;
+  animation:walk 5s steps(13) infinite, forward 15s linear infinite;
+}
+
+@keyframes walk{
+  0%{
+    background-position: 0px;
+  }
+  100%{
+    background-position: 1300px;
+  }
+
+}
+
+@keyframes forward{
+  0%{
+    transform: translateX(-100px);
+  }
+  100%{
+    transform: translateX(1300px);
+  }
+
+}
